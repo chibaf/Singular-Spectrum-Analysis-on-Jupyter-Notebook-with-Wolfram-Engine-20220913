@@ -12,3 +12,10 @@ Project Jupyter | Installing Jupyter https://jupyter.org/install
 
 
 WolframResearch/WolframLanguageForJupyter: Wolfram Language kernel for Jupyter notebooks https://github.com/WolframResearch/WolframLanguageForJupyter
+
+
+
+ref:
+
+
+Singular Spectrum Analysis for Time Series | SpringerLink https://link.springer.com/book/10.1007/978-3-662-62436-4
