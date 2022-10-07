@@ -14,6 +14,8 @@ Project Jupyter | Installing Jupyter https://jupyter.org/install
 WolframResearch/WolframLanguageForJupyter: Wolfram Language kernel for Jupyter notebooks https://github.com/WolframResearch/WolframLanguageForJupyter
 
 
+SingularSpectrumAnalysis_20220913.ipynb: an example of Singular Spectrum Analysis
+
 
 # ref:
 
