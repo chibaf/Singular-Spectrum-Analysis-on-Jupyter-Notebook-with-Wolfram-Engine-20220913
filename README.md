@@ -16,6 +16,8 @@ WolframResearch/WolframLanguageForJupyter: Wolfram Language kernel for Jupyter n
 
 SingularSpectrumAnalysis_20220913.ipynb: an example of Singular Spectrum Analysis
 
+manual01b.nb.pdf: an introduction to mathematica, in japanese
+
 
 # ref:
 
