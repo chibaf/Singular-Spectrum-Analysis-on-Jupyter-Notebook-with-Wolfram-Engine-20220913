@@ -24,4 +24,6 @@ manual01b.nb.pdf: an introduction to mathematica, in japanese
 
 Singular Spectrum Analysis for Time Series | SpringerLink https://link.springer.com/book/10.1007/978-3-662-62436-4
 
-Short Introduction to Mathematica inJapanese: https://github.com/chibaf/SingularSpectrumAnalysis_20220913/blob/main/manual01b.nb.pdf
+chibaf/wolfram_language_introduction: short introduction to wolfram language (in japanese) https://github.com/chibaf/wolfram_language_introduction
+
+Short Introduction to Mathematica in Japanese: https://github.com/chibaf/SingularSpectrumAnalysis_20220913/blob/main/manual01b.nb.pdf
